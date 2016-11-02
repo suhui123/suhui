@@ -1,2 +1,3 @@
 # suhui
-for testing
+I decided to encapsulated some webdriver's functions in apple.py durying next months
+to be continue.....
